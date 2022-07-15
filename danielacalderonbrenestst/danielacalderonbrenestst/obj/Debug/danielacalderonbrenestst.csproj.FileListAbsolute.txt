@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\danielacalderonbrenestst\danielacalderonbrenestst\bin\Debug\danielacalderonbrenestst.exe.config
+c:\users\admin\source\repos\danielacalderonbrenestst\danielacalderonbrenestst\bin\Debug\danielacalderonbrenestst.exe
+c:\users\admin\source\repos\danielacalderonbrenestst\danielacalderonbrenestst\bin\Debug\danielacalderonbrenestst.pdb
+c:\users\admin\source\repos\danielacalderonbrenestst\danielacalderonbrenestst\obj\Debug\danielacalderonbrenestst.csprojAssemblyReference.cache
+c:\users\admin\source\repos\danielacalderonbrenestst\danielacalderonbrenestst\obj\Debug\danielacalderonbrenestst.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\danielacalderonbrenestst\danielacalderonbrenestst\obj\Debug\danielacalderonbrenestst.exe
+c:\users\admin\source\repos\danielacalderonbrenestst\danielacalderonbrenestst\obj\Debug\danielacalderonbrenestst.pdb
